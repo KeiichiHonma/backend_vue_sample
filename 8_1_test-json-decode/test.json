@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "content": "こんにちは",
+  "author": {
+    "id": 2,
+    "name": "本間"
+  },
+  "comments":[
+    {
+      "id": 3,
+      "content": "ありがとうございます。",
+      "author": "村上"
+    },
+    {
+    "id": 4,
+    "content": "疲れた",
+    "author": "小川"
+    }
+  ]
+}
